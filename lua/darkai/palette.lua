@@ -10,6 +10,7 @@ local colors = {
   whitespace_fg = "#333842",
   alt_bg = "#2d2e27",
   alt_bg2 = "#383a3e",
+  winbar_bg = "#222219",
   pmenu_bg = "#2c2c26",
   pmenu_sel_bg = "#40403a",
   pmenu_thumb_bg = "#47473b",
